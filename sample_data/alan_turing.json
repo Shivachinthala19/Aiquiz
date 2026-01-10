@@ -1,0 +1,55 @@
+{
+    "id": 1,
+    "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+    "title": "Alan Turing",
+    "summary": "Alan Mathison Turing OBE FRS (23 June 1912 – 7 June 1954) was a British mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist...",
+    "key_entities": {
+        "people": [
+            "Alan Turing",
+            "Alonzo Church"
+        ],
+        "organizations": [
+            "National Physical Laboratory",
+            "Bletchley Park"
+        ],
+        "locations": [
+            "United Kingdom"
+        ]
+    },
+    "sections": [
+        "Early life",
+        "World War II",
+        "Legacy"
+    ],
+    "quiz": [
+        {
+            "question": "Where did Alan Turing study?",
+            "options": [
+                "Harvard",
+                "Cambridge",
+                "Oxford",
+                "Princeton"
+            ],
+            "answer": "Cambridge",
+            "difficulty": "easy",
+            "explanation": "Alan Turing studied at King's College, Cambridge."
+        },
+        {
+            "question": "What was the Enigma?",
+            "options": [
+                "A computer",
+                "A cipher machine",
+                "A ship",
+                "A lab"
+            ],
+            "answer": "A cipher machine",
+            "difficulty": "medium",
+            "explanation": "The Enigma was a cipher machine used by the Germans during WWII."
+        }
+    ],
+    "related_topics": [
+        "Cryptography",
+        "Computer Science",
+        "Artificial Intelligence"
+    ]
+}

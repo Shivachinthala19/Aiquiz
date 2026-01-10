@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+beautifulsoup4
+requests
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+google-generativeai
+fastapi-cors
