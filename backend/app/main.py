@@ -20,6 +20,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/")
+async def root():
+    return {"message": "AI Wiki Quiz API is running"}
+
 wiki_scraper = scraper.WikipediaScraper()
 llm_service = llm.LLMService()
 
