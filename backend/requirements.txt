@@ -12,3 +12,4 @@ python-dotenv
 pydantic
 google-generativeai
 fastapi-cors
+gunicorn
